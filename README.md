@@ -40,5 +40,9 @@ I am Vincent Lesniak, student at Epitech Lille, passionate about development, cr
   [![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
   [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
   [![Architecture MVC](https://img.shields.io/badge/Architecture%20MVC-%230275d8.svg?style=for-the-badge)](https://developer.mozilla.org/fr/docs/Glossary/MVC)
+  [![POO](https://img.shields.io/badge/POO%20(Objet)-%238511FA.svg?style=for-the-badge)](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/Object-oriented_programming)
+  [![Architecture API REST](https://img.shields.io/badge/Architecture%20API%20REST-%23009639.svg?style=for-the-badge)](https://developer.mozilla.org/fr/docs/Glossary/REST)
+  [![Consommation d'API](https://img.shields.io/badge/Consommation%20API-%231572B6.svg?style=for-the-badge)](https://developer.mozilla.org/fr/docs/Web/API/Fetch_API)
+  [![Authentification API](https://img.shields.io/badge/Authentification%20API-%23D42029.svg?style=for-the-badge)](https://developer.mozilla.org/fr/docs/Web/HTTP/Authentication)
   
 </div>
