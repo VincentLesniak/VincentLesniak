@@ -38,5 +38,7 @@ I am Vincent Lesniak, student at Epitech Lille, passionate about development, cr
   [![Dompdf](https://img.shields.io/badge/Dompdf-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/dompdf/dompdf/wiki)
   [![Jekyll](https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)](https://jekyllrb.com/docs/)
   [![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+  [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
+  [![Architecture MVC](https://img.shields.io/badge/Architecture%20MVC-%230275d8.svg?style=for-the-badge)](https://developer.mozilla.org/fr/docs/Glossary/MVC)
   
 </div>
