@@ -30,13 +30,7 @@ I am Vincent Lesniak, student at Epitech Lille, passionate about development, cr
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/docs/)
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-  
-
-  ### 📝 Générateurs statiques & Markdown
-  [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-  [![Kramdown](https://img.shields.io/badge/Kramdown-333333?style=for-the-badge&logo=markdown&logoColor=white)](https://kramdown.gettalong.org/)
-  [![Jekyll](https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)](https://jekyllrb.com/docs/)
-  [![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
   [![Dompdf](https://img.shields.io/badge/Dompdf-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/dompdf/dompdf/wiki)
+  [![Jekyll](https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)](https://jekyllrb.com/docs/)
   
 </div>
