@@ -32,6 +32,7 @@ I am Vincent Lesniak, student at Epitech Lille, passionate about development, cr
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%236264A7.svg?style=for-the-badge&logo=microsoftteams&logoColor=white)
 
   ### 📝 Générateurs statiques & Markdown
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
