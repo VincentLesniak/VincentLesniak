@@ -1,6 +1,7 @@
 ## Hi there, bienvenue ! 👋
 
 I am Vincent Lesniak, student at Epitech Lille, passionate about development, creating innovative solutions & responding to the identified needs of the people around me.
+You can check my linkedin if you want to work with me.
 
 - 🔭 I’m currently focusing on my Epitech Project to validate my current academic year.
 - 🌱 I’m currently learning Laravel et partially React in my group project.
