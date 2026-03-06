@@ -7,7 +7,7 @@ You can check my linkedin if you want to work with me.
 - 🌱 I’m currently learning Laravel et partially React in my group project.
 - 👯 I’m looking for a work-study position in Web Development at 14/09/2026 to 22/10/2027. (rotation: 6 weeks in company / 2 weeks at school)
 - 💬 Ask me about all you want if you are curious to know something about me
-- 📫 How to reach me: [![Email Pro](https://img.shields.io/badge/vincentlesniakpro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentlesniakpro@gmail.com) [![Email Epitech](https://img.shields.io/badge/lesniak.vincent@epitech.eu-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lesniak.vincent@epitech.eu)
+- 📫 How to reach me: [![Email Pro](https://img.shields.io/badge/vincentlesniakpro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentlesniakpro@gmail.com)
 - ⚡ Fun fact: I can talk about my job all the time—to the point of driving my friends crazy—but it's just because I love what I do!
 
 <div align="center">
